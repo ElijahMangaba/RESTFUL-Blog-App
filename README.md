@@ -5,8 +5,8 @@ A project that culminates all of the things I learned about the Front-End workin
 
 ### Prerequisites
 
-Any modern web browser such as Google Chrome, Safari, or Mozilla Firefox.
-Download node.js and mongodb!! 
+* Any modern web browser such as Google Chrome, Safari, or Mozilla Firefox.
+* Download node.js and mongodb!! 
 * https://nodejs.org/en/
 * https://www.mongodb.com/ - Make sure you can run a local database on your system as this project connects to local mongo database once started
 [OPTIONAL] Visual Studio Code - This is what I used to develop/test this project
@@ -18,6 +18,7 @@ Download node.js and mongodb!!
 * Use git clone for this repository
 * Run the command "npm i" just in case all the dependencies weren't cloned
 * Run the command "node app.js" or "nodemon" if you have that installed globally
+* Once the app has started, open up your web browser and go to "localhost:3000" to see a live demo of the Blog App
 
 ### Built with 
 
