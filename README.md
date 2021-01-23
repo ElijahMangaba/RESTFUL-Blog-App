@@ -8,7 +8,7 @@ A project that culminates all of the things I learned about the Front-End workin
 * Any modern web browser such as Google Chrome, Safari, or Mozilla Firefox.
 * Download node.js and mongodb!! 
 * https://nodejs.org/en/
-* https://www.mongodb.com/ - Make sure you can run a local database on your system as this project connects to a local mongo database once started
+* https://www.mongodb.com/ - Make sure you can run a local mongo database on your system as this project connects to a local mongo database once started
 * [OPTIONAL] Visual Studio Code - This is what I used to develop/test this project
 * https://code.visualstudio.com/
 
