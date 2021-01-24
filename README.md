@@ -1,6 +1,6 @@
 # RESTFUL-Blog-App
 
-A project that culminates all of the things I learned about the Front-End working with the Back-end of a web application. This project is a Simple Blog App that allows a user to create, edit, and delete blog posts that contain a title, link for an image, and a description. Follows REST pattern by containing RESTful routes. Connected to a database and follows CRUD operations.
+A project that culminates all of the things I learned about the Front-End working with the Back-end of a web application. This project is a Simple Blog App that allows a user to create, edit, and delete blog posts that contain a title, link for an image, and a description. This project follows the REST pattern by containing RESTful routes. It is also connected to a database and follows CRUD operations.
 
 
 ### Prerequisites
